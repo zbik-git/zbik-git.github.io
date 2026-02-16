@@ -6,4 +6,4 @@ Dodanie
   <source src="../public/mov/app_1.mov" type="video/mp4">
 </video>
 
-Dodanie instrujci wideo.
+Dodanie wideo.
