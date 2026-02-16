@@ -1,2 +1,22 @@
 # 💼 Aplikacja IDPOS – Dokumentacja Projektu
 
+- Rejestracjia
+  - [Rejestracji konta w Portalu](./PORTAL/Portal.md)
+  - [Udzielenie dostępu](./PORTAL/Dodanie%20dostępu%20do%20portalu.md)
+  - [Zablokowanie dostępu](./PORTAL/Zablokowanie%20dostępu.md)
+  - [Uruchomienie aplikacji BOH](./PORTAL/Przejście%20do%20boha.md)
+- Konfiguracja BOH
+  - [Wystawienie - Faktury](./POS/FV.md)
+  - [Dodanie - Kategorii](./POS/Kategorie.md)
+  - [Dodanie - Produktu](./POS/Produkty.md)
+  - [Dodanie - Promocji](./POS/Promocja.md)
+  - [Dodanie - Modyfikatora](./POS/Modyfikatory.md)
+  - [Dodanie - Sali](./POS/Sale.md)
+  - [Dodanie - Kelnera](./POS/User.md)
+  - [Import menu z exela](./POS/Import%20Menu.md)
+  - [Konfiguracjia Viva Paymensts](./POS/Viva.md)
+  - [Konfiguracjia Restimo](./POS/RESTIMO.md)
+- Aplikacja POS
+  - [Otwarcie rachunku](./APP/sprzedaz.md)
+  - [Zamknięcie dnia ](./APP/zamkniecie.md)
+  - [Instrukcja 1.0 ](./APP/instrukcja_pdf.md)
